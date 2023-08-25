@@ -1,0 +1,8 @@
+{
+    "automationName": "XCUITest",
+    "platformName": "iOS",
+    "deviceName": "iPhone",
+    "bundleId": ".ipa bundle id",
+    "udid": "udid-from-device"
+}
+  

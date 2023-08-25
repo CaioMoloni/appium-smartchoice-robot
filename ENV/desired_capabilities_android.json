@@ -1,0 +1,7 @@
+{
+    "automationName": "UiAutomator2",
+    "platformName": "Android",
+    "deviceName": "Test",
+    "app": "path-to-apk",
+    "udid": "udid-from-device"
+}
